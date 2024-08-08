@@ -1,4 +1,4 @@
-# Use the official CentOS 7 base image
+# Use the official Amazon Linux 2023 image
 FROM public.ecr.aws/amazonlinux/amazonlinux:2023 as build
 
 # Install the Apache HTTP server package from the CentOS repository
